@@ -1,3 +1,3 @@
 # DSA and Java
-## Problems
+## Problem
 
